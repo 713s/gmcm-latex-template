@@ -1,0 +1,20 @@
+# TeX build products
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+main.pdf
+build/
+# Local tools, credentials, fonts and private backups
+.agents/
+.aws/
+.codex/
+*.ttf
+*.otf
+*backup*
